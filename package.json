@@ -1,0 +1,12 @@
+{
+  "name": "create-react-component",
+  "version": "0.0.1",
+  "description": "Util for fast react component creation (.tsx + .scss + index.ts)",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Aksyonov",
+  "license": "ISC"
+}
